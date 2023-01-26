@@ -1,5 +1,5 @@
 body {
-    background-image: url(../images/bg.png);
+    background-image: url(/images/bg.png);
     
     background-repeat: no-repeat;
     background-size: auto;
@@ -228,7 +228,7 @@ div.icon {
 
 .contact-us {
 
-    background-image: url("../images/bg2.png");
+    background-image: url("/images/bg2.png");
     background-repeat:no-repeat;
     background-size:contain;
     background-position: right;
@@ -315,7 +315,7 @@ max-height: 2rem;
 
 .selecting {
 
-background-image: url(../images/bg5.png);
+background-image: url(/images/bg5.png);
 
 background-attachment: fixed;
   background-position: center;
@@ -391,7 +391,7 @@ h3.black {
         }
     
     body {
-        background-image: url(../images/bg400.png);
+        background-image: url(/images/bg400.png);
         
     }
     .h3orderwhite {
